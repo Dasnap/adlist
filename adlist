@@ -87,6 +87,9 @@ xbox360emulator.com
 # ITVX
 recommendations.prd.user.itv.com
 ar.prd.content.itv.com
+(\.|^)recommendations\.prd\.user\.itv\.com$
+(\.|^)ar\.prd\.content\.itv\.com$
 
 # All4
 c4dotcom.2cnt.net
+(\.|^)c4dotcom\.2cnt\.net$
