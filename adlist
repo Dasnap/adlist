@@ -171,3 +171,10 @@ lgtvonline.lge.com
 *.meethue.com
 *.lgincdnmsftuswe2.azureedge.net
 *.lgincdnvzeuno.azureedge.net 
+
+# https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+
