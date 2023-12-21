@@ -139,3 +139,35 @@ tgp.pornsponsors.com
 ultrasponsor.com
 websponsors.com
 ww2.sponsorflyr.com
+
+# LG TV (https://www.reddit.com/r/pihole/comments/bzzvxv/comment/hx4hnm7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+# Contacted to check for firmware updates
+snu.lge.com
+
+# Contacted to download firmware updates
+su-ssl.lge.com
+
+# The only other *.lge.com hostname contacted (that I saw)
+lgtvonline.lge.com
+
+# Thus, if you're in a situation where you can't blacklist all of *.lge.com + whitelist snu.lge.com & su-ssl.lge.com, then just blacklisting lgtvonline.lge.com might be equivalent.
+
+# Other hosts I'm blacklisting:
+
+*.lg.com
+*.lgincdnmsftuswe2.azureedge.net
+*.lgincdnvzeuno.azureedge.net
+*.digitalguardian.com
+*.lgsmartplatform.com
+*.lgeapi.com
+*.lgsmartad.com
+*.partner.netflix.net
+*.lgtviot.com
+*.lgthinq.com
+*.lge.com
+*.lgtvcommon.com
+*.lgtvsdp.com
+*.meethue.com
+*.lgincdnmsftuswe2.azureedge.net
+*.lgincdnvzeuno.azureedge.net 
