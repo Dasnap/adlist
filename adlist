@@ -181,3 +181,5 @@ ngfts.lge.com
 *.ad.lgsmartad.com
 *.info.lgsmartad.com
 
+# Android TV 
+androidtvwatsonfe-pa.googleapis.com  
